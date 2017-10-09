@@ -13,6 +13,7 @@
       "dateTimeStamp": "Wed, 04 Oct 2017 10:15:42 GMT"
     },
     {
+<<<<<<< HEAD
       "templateId1": "servicecatalog.connectivityComponent",
       "templateVersion": "0.0.0",
       "dateTimeStamp": "Wed, 04 Oct 2017 10:16:50 GMT"
@@ -27,6 +28,14 @@
     "resourceModelName": "i18n"
   },
   "translation1": {
+=======
+      "templateId": "servicecatalog.connectivityComponent",
+      "templateVersion": "0.0.0",
+      "dateTimeStamp": "Wed, 04 Oct 2017 10:16:50 GMT"
+    }
+  ],
+  "translation": {
+>>>>>>> branch 'master' of https://github.com/kushwahs/All_State_Project.git
     "translationDomain": "",
     "supportedLanguages": "en,fr,de",
     "defaultLanguage": "en",
